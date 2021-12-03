@@ -37,7 +37,7 @@ def main():
     sql_create_ranking_table = """CREATE TABLE IF NOT EXISTS ranking (
                                     name text NOT NULL, 
                                     score integer NOT NULL
-                                    );"""
+                                    )"""
 
     connection = sqlite3.connect(database)
 
