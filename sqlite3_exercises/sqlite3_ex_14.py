@@ -1,4 +1,3 @@
-# sqlite3_ex_15.py
 # # DELETE TABLE
 # https://www.youtube.com/watch?v=byHcYRpMgI4
 
